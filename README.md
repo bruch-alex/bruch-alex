@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Alex Bruch :wave:
 
-<!--
-**bruch-alex/bruch-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend java developer at {The name of your wonderful firm could be here}!
 
-Here are some ideas to get you started:
+## Tech stack :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/that's_it_for_now-white)
+
+## Lets connect :handshake:
+
+You can send me [email](alex.bruch@tutanota.com)
