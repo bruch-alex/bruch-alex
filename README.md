@@ -4,7 +4,7 @@
 
 Backend java developer at {name of your wonderful firm could be here}!
 
-I speak :ru: russian, :us: english, :de: german
+I speak :ru: Russian, :us: English, :de: German
 
 ### Tech stack :computer:
 
