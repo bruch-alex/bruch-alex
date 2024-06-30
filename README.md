@@ -1,18 +1,32 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3EwdTM3N24yajU3MW5iYWdpbXhmdTVxOTJ0cm5xMDN5Y3BjdHQzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="300" height="300" />
+<p align="center">
+    <img src="assets/at-work.gif" width="300" height="300" /></p>
 
-## Hi there, I'm Alex Bruch :wave:
+<h1 align="center">
+    Alex Bruch</h1>
 
-Backend java developer at {name of your wonderful firm could be here}!
+<p align="center">
+    Backend java developer at {name of your wonderful firm could be here}!</p>
 
-I speak :ru: Russian, :us: English, :de: German
+<p align="center">
+    Currently studying Java at <a href="https://digitalcareerinstitute.org/">DCI</a></p>
 
-### Tech stack :computer:
+<p align="center">
+    I speak Russian, English and German</p>
 
-![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white)
-![More](https://img.shields.io/badge/that's_it_for_now-blue)
 
-### Lets connect :handshake:
+<h2 align="center">
+    Tech Stack &#128187</h2>
 
-You can send me [email](alex.bruch@tutanota.com)
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/that's_it_for_now-blue">
+</p>
+
+<h2 align="center">
+    Lets connect &#129309</h2>
+
+<p align="center">
+    How to reach me: <a href="mailto:alex.bruch@tutanota.com">alex.bruch@tutanota.com</a>
+</p>
